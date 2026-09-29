@@ -1,5 +1,5 @@
 {
-    "name": "zura/09_composer",
+    "name": "arnoldtognide/09_composer",
     "autoload": {
         "psr-4": {
             "Zura\\Testing\\": "src/"
@@ -7,11 +7,11 @@
     },
     "authors": [
         {
-            "name": "Zura Sekhniashvili",
-            "email": "zurasekhniashvili@gmail.com"
+            "name": "zura",
+            "email": "zura@test.com"
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.9"
+        "guzzlehttp/guzzle": "^8.2"
     }
 }
